@@ -1,0 +1,1 @@
+print('Steve Jobs certa vez disse: "Cada sonho que você deixa para trás é um pedaço do seu futuro que deixa de existir!"')

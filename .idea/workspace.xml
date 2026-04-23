@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="ALL" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="dbb1bde3-1f4a-4951-a4f4-00b4c2e19fd9" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/00_introdução/author_game.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01_iniciando/hello_world.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02_variáveis_tipos_dados/1_façavocêmesmo/simple_message.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02_variáveis_tipos_dados/1_façavocêmesmo/simple_messages.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02_variáveis_tipos_dados/2_façavocêmesmo/famous_citation.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02_variáveis_tipos_dados/2_façavocêmesmo/famous_citation_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02_variáveis_tipos_dados/2_façavocêmesmo/name_case.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02_variáveis_tipos_dados/2_façavocêmesmo/personal_message.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02_variáveis_tipos_dados/2_façavocêmesmo/upper_lower_letters.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02_variáveis_tipos_dados/3_façavocêmesmo/favorite_number.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02_variáveis_tipos_dados/3_façavocêmesmo/number_eight.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02_variáveis_tipos_dados/apostrophe.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02_variáveis_tipos_dados/birthday.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02_variáveis_tipos_dados/comment.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02_variáveis_tipos_dados/hello_world.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02_variáveis_tipos_dados/name.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02_variáveis_tipos_dados/numbers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02_variáveis_tipos_dados/strings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02_variáveis_tipos_dados/zen_python.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;maiconcutrim&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/maiconcutrim/python_crash_course&quot;,
+    &quot;accountId&quot;: &quot;931b063f-02d0-4be2-a0be-f9be02d9fff2&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0,
+  &quot;fromUser&quot;: false
+}</component>
+  <component name="ProjectId" id="3C5giPFIjNoqAvu8kCDvzMdAKo6" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.1_hello_world.executor": "Run",
+    "Python.apostrophe.executor": "Run",
+    "Python.author_game.executor": "Run",
+    "Python.birthday.executor": "Run",
+    "Python.citation.executor": "Run",
+    "Python.famous_citation.executor": "Run",
+    "Python.famous_citation_2.executor": "Run",
+    "Python.favorite_number.executor": "Run",
+    "Python.hello.executor": "Run",
+    "Python.hello_world.executor": "Run",
+    "Python.main.executor": "Run",
+    "Python.message.executor": "Run",
+    "Python.name.executor": "Run",
+    "Python.name_case.executor": "Run",
+    "Python.name_cases.executor": "Run",
+    "Python.number_eight.executor": "Run",
+    "Python.numbers.executor": "Run",
+    "Python.personal_message.executor": "Run",
+    "Python.simple_message.executor": "Run",
+    "Python.simple_messages.executor": "Run",
+    "Python.strings.executor": "Run",
+    "Python.strip_tabulation_break.executor": "Run",
+    "Python.zen_python.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "junie.onboarding.icon.badge.shown": "true",
+    "last_opened_file_path": "D:/python_crash_course",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "to.speed.mode.migration.done": "true",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\python_crash_course\02-Variáveis" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\python_crash_course\02_variáveis_tipos_dados\2_façavocêmesmo" />
+      <recent name="D:\python_crash_course\02_variáveis_tipos_dados\1_façavocêmesmo" />
+      <recent name="D:\python_crash_course\02_variáveis_tipos_dados" />
+      <recent name="D:\python_crash_course\02_variáveis_tipos_dados\exercícios" />
+      <recent name="D:\python_crash_course\02-Variáveis" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="python_crash_course" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="DEBUG_JUST_MY_CODE" value="false" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="RUN_TOOL" value="" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-b63d5a1f7c97-b61e75351b1f-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-261.22158.340" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="dbb1bde3-1f4a-4951-a4f4-00b4c2e19fd9" name="Changes" comment="" />
+      <created>1775680972326</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1775680972326</updated>
+      <workItem from="1775680973674" duration="14433000" />
+      <workItem from="1775761296447" duration="10935000" />
+      <workItem from="1776518172333" duration="460000" />
+      <workItem from="1776518664889" duration="3400000" />
+      <workItem from="1776684835223" duration="2960000" />
+      <workItem from="1776687821651" duration="14165000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/python_crash_course$name_cases.coverage" NAME="name_cases Coverage Results" MODIFIED="1775839378342" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/02-Variáveis" />
+    <SUITE FILE_PATH="coverage/python_crash_course$birthday.coverage" NAME="birthday Coverage Results" MODIFIED="1776706941245" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/02_variáveis_tipos_dados" />
+    <SUITE FILE_PATH="coverage/python_crash_course$1_hello_world.coverage" NAME="1_hello_world Coverage Results" MODIFIED="1776687505519" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/02_variáveis_tipos_dados" />
+    <SUITE FILE_PATH="coverage/python_crash_course$strings.coverage" NAME="strings Coverage Results" MODIFIED="1776520807003" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/02_variáveis" />
+    <SUITE FILE_PATH="coverage/python_crash_course$simple_messages.coverage" NAME="simple_messages Coverage Results" MODIFIED="1776689072835" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/02_variáveis_tipos_dados" />
+    <SUITE FILE_PATH="coverage/python_crash_course$name_case.coverage" NAME="name_case Coverage Results" MODIFIED="1776704319152" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/02_variáveis_tipos_dados/2_façavocêmesmo" />
+    <SUITE FILE_PATH="coverage/python_crash_course$number_eight.coverage" NAME="number_eight Coverage Results" MODIFIED="1776707161935" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/02_variáveis_tipos_dados/3_façavocêmesmo" />
+    <SUITE FILE_PATH="coverage/python_crash_course$famous_citation_2.coverage" NAME="famous_citation_2 Coverage Results" MODIFIED="1776703732103" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/02_variáveis_tipos_dados/2_façavocêmesmo" />
+    <SUITE FILE_PATH="coverage/python_crash_course$favorite_number.coverage" NAME="favorite_number Coverage Results" MODIFIED="1776707279997" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/02_variáveis_tipos_dados/3_façavocêmesmo" />
+    <SUITE FILE_PATH="coverage/python_crash_course$message.coverage" NAME="message Coverage Results" MODIFIED="1775675949103" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/02-Variáveis" />
+    <SUITE FILE_PATH="coverage/python_crash_course$main.coverage" NAME="main Coverage Results" MODIFIED="1776684945277" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/python_crash_course$hello_world.coverage" NAME="hello_world Coverage Results" MODIFIED="1776688521907" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/02_variáveis_tipos_dados" />
+    <SUITE FILE_PATH="coverage/python_crash_course$name.coverage" NAME="name Coverage Results" MODIFIED="1776520312298" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/02_variáveis" />
+    <SUITE FILE_PATH="coverage/python_crash_course$numbers.coverage" NAME="numbers Coverage Results" MODIFIED="1776705859342" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/02_variáveis_tipos_dados" />
+    <SUITE FILE_PATH="coverage/python_crash_course$author_game.coverage" NAME="author_game Coverage Results" MODIFIED="1776686116265" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/00_introdução" />
+    <SUITE FILE_PATH="coverage/python_crash_course$strip_tabulation_break.coverage" NAME="strip_tabulation_break Coverage Results" MODIFIED="1775840575307" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/02-Variáveis" />
+    <SUITE FILE_PATH="coverage/python_crash_course$apostrophe.coverage" NAME="apostrophe Coverage Results" MODIFIED="1776694258544" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/02_variáveis_tipos_dados" />
+    <SUITE FILE_PATH="coverage/python_crash_course$citation.coverage" NAME="citation Coverage Results" MODIFIED="1776519894870" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/02_variáveis" />
+    <SUITE FILE_PATH="coverage/python_crash_course$hello.coverage" NAME="hello Coverage Results" MODIFIED="1776520106376" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/02_variáveis" />
+    <SUITE FILE_PATH="coverage/python_crash_course$zen_python.coverage" NAME="zen_python Coverage Results" MODIFIED="1776946970094" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/02_variáveis_tipos_dados" />
+    <SUITE FILE_PATH="coverage/python_crash_course$personal_message.coverage" NAME="personal_message Coverage Results" MODIFIED="1776695424753" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/02_variáveis_tipos_dados/2_façavocêmesmo" />
+    <SUITE FILE_PATH="coverage/python_crash_course$famous_citation.coverage" NAME="famous_citation Coverage Results" MODIFIED="1776703272307" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/02_variáveis_tipos_dados/2_façavocêmesmo" />
+    <SUITE FILE_PATH="coverage/python_crash_course$simple_message.coverage" NAME="simple_message Coverage Results" MODIFIED="1776688989320" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/02_variáveis_tipos_dados" />
+  </component>
+</project>
